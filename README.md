@@ -139,6 +139,7 @@ source .venv/bin/activate
 **Windows (PowerShell):**
 ```powershell
 .venv\Scripts\Activate.ps1
+```
 
 (If Powershell blocks the script with an execution-policy error, run `Set-ExecutionPolicy -Scope CurrentUser -ExecutionPolicy RemoteSigned` once, then retry.)
 
